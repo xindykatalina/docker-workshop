@@ -13,4 +13,5 @@
 2. Comandos mas utilizados
 3. Instalar docker descargamos el script de get.docker.com y corremos con sudo curl -sSL https://get.docker.com/ | sh
 4. Crear nuestro primer contenedor
+4. Registrarse en docker hub https://hub.docker.com/
 5. docker run hello-world
