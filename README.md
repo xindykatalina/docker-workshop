@@ -3,7 +3,7 @@
 ## Setup
 
 1. Clonar el [repo](https://github.com/xindykatalina/docker-workshop.git)
-2. Correr el comando docker build -t flask-sample-one:latest .
+2. Correr el comando docker build -t flask-sample-one:latest . (ejecutar cuando se les indique)
 
 
 ## Workshop
